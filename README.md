@@ -1,5 +1,9 @@
 # Predictive-Analysis-with-Python-Athena-Global-Education-
 
+**Project Overview:**
+
+This project aims to develop a simple web application using Python and Flask. The application will allow users to input a list of numbers and then calculate the sum, average, and standard deviation of those numbers.
+
 _**Description:**_
 
 Developed a **predictive analysis model** using **Python** to analyze **trends and forecast outcomes** based on historical data.
