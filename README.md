@@ -9,7 +9,7 @@ _**Description:**_
 Developed a **predictive analysis model** using **Python** to analyze **trends and forecast outcomes** based on historical data.
 
 **Project Structure**
-
+![model Diagram](https://raw.githubusercontent.com/Tisha-Tasmia/Predictive-Analysis-with-Python-Athena-Global-Education-/refs/heads/main/Predictive_analysis.png)
 
 _**Key Features:**_
 
