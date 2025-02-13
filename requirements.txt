@@ -1,0 +1,7 @@
+//necessary libraries
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn 
