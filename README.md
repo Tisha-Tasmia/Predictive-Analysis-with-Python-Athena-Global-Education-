@@ -1,6 +1,6 @@
 # Predictive-Analysis-with-Python-Athena-Global-Education-
 
-**Project Overview:**
+_**Project Overview:**_
 
 This project focuses on developing predictive analysis models using Python to analyze trends and forecast outcomes based on historical data.
 
@@ -41,10 +41,10 @@ o	Generated comprehensive reports summarizing findings and model performance.
 
 •	**Real-World Application:** Applied predictive models to business and research scenarios.
 
-**Technology Stack**
-•	_Programming Languages: _ Python
+_**Technology Stack**_
+•	Programming Languages: Python
 
-•	_Libraries: _
+•	Libraries:
 o	Data Manipulation: Pandas, NumPy
 
 o	Machine Learning: Scikit-learn, TensorFlow/Keras
@@ -71,15 +71,15 @@ _**Contribution:**_
 
 •	Applied the predictive models in practical scenarios, such as **sales forecasting and risk assessment**.
 
-**Future Development**
+_**Future Development**_
 
 •	Explore advanced deep learning models (e.g., recurrent neural networks, convolutional neural networks) for more complex tasks.
 
 •	Implement real-time predictions and integrate models into production systems.
 
-•	Investigate techniques like anomaly detection and time series forecasting.
+•	Investigate techniques like anomaly **detection and time series forecasting**.
 
-•	Expand the project to include natural language processing (NLP) or image recognition capabilities.
+•	Expand the project to include natural **language processing (NLP)** or image recognition capabilities.
 
 
 
